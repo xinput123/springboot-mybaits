@@ -12,6 +12,7 @@
         <module>sb-xml</module>
         <module>sb-annotation</module>
         <module>sb-mybatis-plus</module>
+        <module>sb-tkmybatis</module>
     </modules>
 
     <properties>
